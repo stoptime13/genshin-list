@@ -1,0 +1,31 @@
+/*#dropdownMenuButton1{*/
+/*    color: #363960;*/
+/*    width: 150px;*/
+/*    background-color: white;*/
+/*}*/
+
+
+/*.btn-secondary{*/
+/*    border: 0px solid #363960;*/
+/*}*/
+
+/*.btn-secondary:focus{*/
+/*    box-shadow: 0 0 0 0.25rem rgb(66 70 118 / 25%);*/
+/*}*/
+.input-group{
+    margin-top: 15px;
+}
+
+.custom-select{
+    width: 200px;
+    height: 35px;
+    font-size: 17px;
+    border-color: #363960;
+    border-width: 2px;
+    border-radius: 10px;
+    color: #363960;
+    cursor: pointer;
+}
+
+
+

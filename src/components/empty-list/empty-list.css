@@ -1,0 +1,20 @@
+.list-group-item-empty {
+    padding: 15px 20px;
+    color: #363960;
+    background-color: white;
+    border-radius: 10px;
+    list-style: none;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+}
+
+/*.list-group-item-input {*/
+/*    line-height: 35px;*/
+/*    font-size: 18px;*/
+/*    text-align: center;*/
+/*    border-color: #363960;*/
+/*    border-radius: 10px;*/
+/*    color: #363960;*/
+/*    width: 120px;*/
+/*}*/

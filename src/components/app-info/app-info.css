@@ -1,0 +1,25 @@
+.app-info{
+    padding: 25px;
+    background-image: url('https://64.media.tumblr.com/6a4cfa4f93abf0f6264cee85041a5f42/0b49ed98daa4e1a6-f9/s1280x1920/faa434876729149cb93f6ebaaa336425ea76307a.png');
+    background-size: 1000px 295px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+
+}
+
+#title{
+    line-height: 60px;
+    color: white;
+}
+
+#character-number{
+    line-height: 60px;
+    color: #d1d3e5;
+}
+
+#character-party{
+    line-height: 10px;
+    color: #d1d3e5;
+}
+

@@ -1,0 +1,54 @@
+.list-group-item {
+    padding: 15px 20px;
+    border-bottom: 1px solid #363960;
+    color: #363960;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
+
+.list-group-item span {
+    line-height: 35px;
+    font-size: 20px;
+    min-width: 550px;
+}
+
+.list-group-item-input {
+    line-height: 35px;
+    font-size: 18px;
+    text-align: center;
+    border-color: #363960;
+    border-radius: 10px;
+    color: #363960;
+    width: 120px;
+}
+
+.list-group-item button {
+    width: 35px;
+    height: 35px;
+    margin: 3px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.list-group-item .btn-trash {
+    color: #3c406b;
+}
+
+.list-group-item .fa-meteor{
+    color: #3c406b;
+}
+
+.list-group-item.party .fa-meteor {
+    color: #c4bc60;
+}
+
+
+
+
+
+
